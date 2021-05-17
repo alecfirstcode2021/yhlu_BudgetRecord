@@ -1,6 +1,10 @@
 {
-  "name": "budget-app",
-  "short_name": "budget-app",
+  "name": "Budget_Tracker",
+  "short_name": "BudgetTRKR",
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone",
   "icons": [
     {
       "src": "icons/icon-192x192.png",
@@ -12,9 +16,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
-  "start_url": "/",
-  "display": "standalone"
+  ] 
 }
