@@ -36,8 +36,6 @@ https://github.com/alecfirstcode2021/yhlu_BudgetRecord
 
 * [Contributing](#Contributing)
 
-* [Questions](#Questions)
-
 ---
 
 ## Installation
