@@ -18,7 +18,7 @@ https://github.com/alecfirstcode2021/yhlu_BudgetRecord
 
 ---
 ## Demo-Image
-![BudgetRecord](https://github.com/alecfirstcode2021/yhlu_BudgetRecord/blob/main/images/demo_1.png.jpg)
+![BudgetRecord](https://github.com/alecfirstcode2021/yhlu_BudgetRecord/blob/main/images/demo_1.jpg?raw=true)
 
 ---
 
